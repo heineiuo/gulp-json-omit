@@ -1,11 +1,13 @@
 # gulp-json-omit
 
 ## Install
+
 ```
-npm install gupl-json-omit --save
+npm install gulp-json-omit --save
 ```
 
 ## Use
+
 ```
 var gulp = require('gulp')
 var jsonomit = require('gulp-json-omit'）
